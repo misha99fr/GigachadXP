@@ -1,4 +1,4 @@
-# XPConfirmationIDKeygen
+# Xp tool
 
 ![Confirmation ID Keygen](https://github.com/Endermanch/XPConfirmationIDKeygen/assets/44542704/0333498a-c347-4580-ba54-f2a12754e152)
 
